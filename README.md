@@ -1,4 +1,3 @@
-# CH_2023_Java_Team3
 # We Care
 
 ## Overview
@@ -62,5 +61,3 @@
 ## Additional
 - User/Officer/Admin can change password.
 - User/Officer can edit their profile.
-
-Note: This documentation serves as a guide for the We Care platform. For any inquiries or issues, please refer to the [GitHub repository](https://github.com/IN-Valtech/CH_2023_Java_Team3) or contact the project team.
